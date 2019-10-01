@@ -1,0 +1,23 @@
+<div class="muse">
+
+  <div class="dynamic_list">
+    <ul>
+      <li *ngFor="let data of channel">AF7: {{data.AF7}}</li>
+    </ul>
+
+    <ul>
+      <li *ngFor="let data of channel">AF8: {{data.AF8}}</li>
+    </ul>
+
+    <ul>
+      <li *ngFor="let data of channel">TP9: {{data.TP9}}</li>
+    </ul>
+
+    <ul>
+      <li *ngFor="let data of channel">TP10: {{data.TP10}}</li>
+    </ul>
+  </div>
+
+  <button class="button" (click)="connectMuse($event)">Connect</button>
+
+</div>
