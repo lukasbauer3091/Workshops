@@ -50,7 +50,7 @@ Materials:
 
 ### Week 4: (October 12): Thanksgiving Break
 
-### Week 7: (October 19) Convolution, Fourier Transform
+### Week 5: (October 19) Convolution, Fourier Transform
 Overview of convolution, Fourier Transform.
 
 **Note from email**: We have seen how we can use EEG headsets to collect readings of voltage from the brain, and how to visualize the data with Python. The next step on the BCI pipeline is to figure out how to take this huge quantity of data and extract useful indicators and information from it. As we discussed in the "intro to neuroscience" lectures, these readings have a ton of noise (one of the main downsides of EEG vs a more invasive electrode implanted in brain). We filter and clean this data through signal processing. 
@@ -64,7 +64,7 @@ Materials: (video lectures)
 
 ### Week 6: (October 26): Reading Week Break
 
-### Week 5: (November 2) Intro to Angular, MuseJs
+### Week 7: (November 2) Intro to Angular, MuseJs
 Front-end programming with Angular, signal acquisition from the Muse using MuseJs, BrainArt architecture
 
 Milestone 1: Make an app printing out raw data from the Muse in real-time

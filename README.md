@@ -10,10 +10,6 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 **NOTE 2**: We're trying to introduce you to a lot of crazy things in the span of 2 semesters! This means we have to rely on readings to prep you for each week's workshop. **Please make sure to do the mandatory readings** and any **mandatory prep noted** before you come to the workshop, as it will make understanding the material infinitely easier :)
 
-
-## Textbook
-There is no official textbook for this course; however Week 10 will rely on ***Analyzing Neural Time Series Data*** by Mike Cohen. You can find the book through [the UofT Library system](http://cognet.mit.edu.myaccess.library.utoronto.ca/book/analyzing-neural-time-series-data).
-
 ### (To sync this version of workshops with your version, follow the instructions in this link!)
 https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the-cli/
 
@@ -29,31 +25,29 @@ Milestone 3: Design, implement, and verify EEG interpretation algorithm on pre-c
 Milestone 4: Implement and verify real-time EEG interpretation algorithm in Angular
 
 ## Syllabus:
-*(For details, scroll down to "Weekly Details")*
+*(For details, read "Weekly Details")*
 
-### Week 1: (September 29) Intro to Python
-Absolute basics of programming
+### Week 1 (September 22): Intro to Python
 
-### Week 2: (October 6) Problem Solving with Code
-Some programming, problem solving practice
+### Week 2 (September 29): Intro to Neuroscience
 
-### Week 3: (October 13) Intro to Angular
+### Week 3 (October 5): Loading and Graphing Data, Noise Filtering
 
-### Week 4: (October 20) Conda, Git, NPM
+### Week 4: (October 12): Thanksgiving Break
 
-### Week 5: (October 27) Loading and Graphing Data, Noise Filtering
-How to load data from CSVs (or FIFs), graphing data with MatPlotLib, filtering noise, and an introduction to the Fast Fourier Transform.
+### Week 5: (October 19) Convolution, Fourier Transform
 
-### Week 6: (November 3) Intro to MuseJs, Milestone 1
-Front-end programming with Angular, signal acquisition from the Muse using MuseJs, BrainArt architecture, complete BrainArt Milestone 1.
+### Week 6: (October 26): Reading Week Break
 
-### Week 7: (November 10) Intro to Neuroscience
-History, how neurons work (brief intro), neuroanatomy review, Rall's cable theory, membrane potential (Nernst, GHK, HH equations).
+### Week 7: (November 2) Intro to Angular, MuseJs
 
-### NOVEMBER 17-24: Break
+### Week 7: (November 2) Intro to Angular, MuseJs
 
-### Week 8: (December 1) How to Dissect Journal Articles
+### Week 8: (November 9) Digital Signal Processing I
 
+### Week 9-11 Currently being finalized
+
+<!---
 ### DECEMBER 2-JANUARY 6: EXAM BREAK
 
 ### Week 9: (January 12) Neuroscience II
@@ -87,3 +81,5 @@ Dev session for BrainArt (online with Muse), complete BrainArt Milestone 4.
 
 ### Week 19: (March 29) Present brain art!
 Present brain art piece to NeurotechUofT faculty advisors, prizes, and fun!!
+
+--->
