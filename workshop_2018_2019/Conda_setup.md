@@ -15,7 +15,8 @@ If you get an error message, see: https://conda.io/projects/conda/en/latest/user
 
 # Environments
 In every project that you make, you will want to create a separate **'virtual environment'** which will contain only the packages you need for the project. For the workshops, make an environment called *nt-env*.
-See here for how to setup and manage an environment with conda: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-environments
+See here for how to setup and manage an environment with conda (make sure you initialize with Python 3): https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-environments
+
 
 # Managing packages
 The main commands related to packages in conda are "search", "list", and "install". More information can be found here: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-packages
@@ -23,7 +24,7 @@ The main commands related to packages in conda are "search", "list", and "instal
 You will need to install the following packages:
 - numpy
 - matplotlib
-- biosppy
+- biosppy (**Please note**: you will have to use "pip install biosppy" as it is not available through "conda install")
 - jupyter (only if not already installed - see below to check list of installed packages)
 # How to install packages:
 1) Open "Anaconda Navigator/Terminal"
